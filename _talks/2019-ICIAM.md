@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2019-ICIAM
 venue: "ICIAM 2019, Thematic minisymposia"
-date: 2019-07
+date: 2019-07-16
 location: "Valencia, Spain"
 ---
 
