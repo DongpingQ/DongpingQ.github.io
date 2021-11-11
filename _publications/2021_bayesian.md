@@ -1,6 +1,6 @@
 ---
 title: "Surveillance evasion through bayesian reinforcement learning"
-collection:
+collection: publications
 permalink:
 excerpt:
 venue:
