@@ -1,0 +1,38 @@
+---
+title: "Deep Learning and Optimal Control: what's the connection?"
+excerpt: "DL and OC are mutually influencing each other in scientific research nowadays. Can we use control theory to improve the training of DNN? Can we use DL to improve classical numerical algorithms?"
+collection: portfolio
+---
+
+<div class="col-sm-12">
+    <li>
+      One famous interpretation of <a href="https://ieeexplore.ieee.org/document/7780459">ResNet</a>(Residual network) is to
+      view the layer-to-layer transformation
+      <center>
+        <div>
+            $$u_{n+1} = u_n + h \sigma (W_n u_n + b_n)$$
+        </div>
+      </center>
+      as the discretization of a dynamical system(see <a href="https://papers.nips.cc/paper/2018/file/69386f6bb1dfed68692a24c8686939b9-Paper.pdf">Neural ODE</a>).
+      As a result, the process of training can be viewed as a numerical optimal control problem where weights and biases are control variables.
+      This also shows the possibility of using numerical schemes as instructions for developing/improving the structures of deep neural networks.
+
+      The following is 
+    </li>
+    <div class="col-sm-6">
+        <img src="img/splinet_illustration.png" width="700" height="300">
+    </div>
+    <div class="spacer10"></div>
+    <li>
+      On the other hand, <a href="https://www.sciencedirect.com/science/article/pii/S0021999118307125">physics informed neural networks</a>(PINN)
+      offers an approach to solve high dimensional PDEs without a computational grid.
+      Some control problems need to solve a high dimensional Hamilton-Jacobi-Bellman equation, which may take advantage of this.
+      <br />
+      For example, the following figure is a slice of a 4D distance function trained with data generated from Eikonal solutions with black dots as sources.
+      This slice shows the shortest distance from each point in a domain(with an obstacle) towards the source (0.3,0.1).
+    </li>
+    <div class="col-sm-1"></div>
+    <div class="col-sm-6">
+        <img src="img/pinn_eikonal.png" width="700" height="300">
+    </div>
+</div>

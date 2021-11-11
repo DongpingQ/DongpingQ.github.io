@@ -14,4 +14,4 @@ My Ph.D. committee also include Professor [David Bindel](https://www.cs.cornell.
 My current research lies mainly in numerical optimal control especially continuous path planning problems.
 Some of the recent projects are listed [here](/research.html).
 
-Before joining Cornell, I completed my B.S. in Mathematics & Applied Mathematics ([Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/en)) from Shanghai Jiao Tong University in July 2017, where I was supervised by Professor [Lei Zhang](https://ins.sjtu.edu.cn/people/lzhang/home.html).
+Before joining Cornell, I completed my B.S. in Mathematics and Applied Mathematics ([Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/en)) from Shanghai Jiao Tong University in July 2017, where I was supervised by Professor [Lei Zhang](https://ins.sjtu.edu.cn/people/lzhang/home.html).
