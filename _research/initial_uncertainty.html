@@ -1,6 +1,6 @@
 ---
-title: "Resolving numerical artifacts in Eikonal solvers"
-excerpt: "Where should a planner wait if a list of possible targets are known(instead of a single deterministic one)? What if information can be obtained gradually? Can the planner make robust plans? <br/><img src='/images/initial_uncertainty.png'>"
+title: "Path-planning with uncertainty: a simple model"
+excerpt: "Where should a planner wait if a list of possible targets are known(instead of a single deterministic one)? What if information can be obtained gradually? Can the planner make robust plans? <br/><img src='/images/initial_uncertainty.png' width="700" height="300">"
 collection: portfolio
 ---
 
@@ -24,6 +24,7 @@ collection: portfolio
       <br />
       Joint work with Adam Dhillon and Alexander Vladimirsky.
     </p>
+
     <link rel="stylesheet"
     href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/
     css/font-awesome.min.css">
@@ -257,7 +258,7 @@ collection: portfolio
         var frames = new Array(388);
 
       for (var i=0; i<388; i++){
-        frames[i] = "drone_frames/frame" + ("0000000" + i).slice(-7) +
+        frames[i] = "/drone_frames/frame" + ("0000000" + i).slice(-7) +
                     ".png";
       }
 
