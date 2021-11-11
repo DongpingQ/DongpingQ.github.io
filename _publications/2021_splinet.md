@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2021-03-01
+title: "Spline parameterization of neural network controls for deep learning"
+collection:
+permalink:
+excerpt:
+date:
 venue:
-paperurl: 'https://arxiv.org/abs/2103.00301'
-citation: 'S. Günther, W. Pazner, D. Qi. Submitted for publication.'
+paperurl:
+citation:
 ---
-This paper is about the number 3. The number 4 is left for future work.
+S. G&uumlnther, W. Pazner, D. Qi. Submitted for publication. [arXiv preprint](https://arxiv.org/abs/2103.00301)
 
-[arXiv preprint](https://arxiv.org/abs/2103.00301)
+This paper is about applying spline parameterization to deep neural networks interpreted as discretization of dynamical systems, in order to achieve more stable and accurate forward propagations.

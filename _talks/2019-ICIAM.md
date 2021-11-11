@@ -1,7 +1,7 @@
 ---
 title: "Rarefaction fans and dynamic factoring in Eikonal equation"
 collection: talks
-type: "Talk"
+type:
 permalink: /talks/2019-ICIAM
 venue: "ICIAM 2019, Thematic minisymposia"
 date: 2019-07-16

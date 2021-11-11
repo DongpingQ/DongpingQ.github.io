@@ -1,13 +1,13 @@
 ---
 title: "Surveillance evasion through bayesian reinforcement learning"
-collection: publications
-permalink: /publication/2021_bayesian
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2021-10-01
+collection:
+permalink:
+excerpt:
+date:
 venue:
-paperurl: 'https://arxiv.org/abs/2109.14811'
-citation: 'D. Qi, D. Bindel, A. Vladimirsky. Submitted for publication.'
+paperurl:
+citation:
 ---
-This paper is about the number 2. The number 3 is left for future work.
+D. Qi, D. Bindel, A. Vladimirsky. Submitted for publication. [arXiv preprint](https://arxiv.org/abs/2109.14811)
 
-[arXiv preprint](https://arxiv.org/abs/2109.14811)
+This paper intends to solve a path planning task but under unknown surveillance intensity. It is interpreted as an online reinforcement learning problem and we apply Gaussian process regression to achieve more accurate function approximation. 
