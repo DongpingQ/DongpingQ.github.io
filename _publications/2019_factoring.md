@@ -1,9 +1,8 @@
 ---
 title: "Corner cases, singularities and dynamic factoring"
-collection: 
+collection:
 permalink:
 excerpt:
-date:
 venue:
 paperurl:
 citation:

@@ -3,7 +3,6 @@ title: "Spline parameterization of neural network controls for deep learning"
 collection:
 permalink:
 excerpt:
-date:
 venue:
 paperurl:
 citation:
