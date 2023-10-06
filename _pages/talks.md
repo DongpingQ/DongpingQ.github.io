@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+ * Surveillance Evasion Through Bayesian Reinforcement Learning. [video](https://www.youtube.com/watch?v=fDoMiz5GdE0)
+
+   2023 AISTATS, poster session & virtual presentation, Valencia, Spain.
+
  * Surveillance Evasion Through Bayesian Reinforcement Learning. [slides](/files/2023_SCAN_slides.pdf)
 
    2023 spring, SCAN Seminar, Cornell University, Ithaca, NY.
